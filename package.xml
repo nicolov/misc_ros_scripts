@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package>
+  <name>misc_ros_scripts</name>
+  <version>0.0.0</version>
+  <description>The misc_ros_scripts package</description>
+  <maintainer email="nicolov@noreply.users.github.com">niko</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <export></export>
+</package>
